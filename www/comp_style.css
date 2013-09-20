@@ -1,0 +1,48 @@
+body, p, th, td, select 
+{
+	font-family:"Times New Roman", Arial, Verdana, Helvetica;
+	font-size:14px;
+}
+
+table 
+{
+	width=100%;
+	background-color:#FFFFEE;
+}	
+
+#content_div 
+{
+	width:100%;
+}
+
+#content_div table 
+{
+	width:100%;
+	border:2px solid #EEEEEE;
+	margin:2px;
+}
+
+#content_div table th
+{
+	font-weight:bold;
+	text-align:left;
+}
+ 
+a 
+{
+	font-weight:bold;
+	color:#000080;
+	text-decoration:none;
+}
+ 
+a:hover 
+{
+	text-decoration:underline;
+}
+ 
+#results_cell table 
+{
+	border:0px hidden;
+	padding:0px;
+	margin:0px;
+}
